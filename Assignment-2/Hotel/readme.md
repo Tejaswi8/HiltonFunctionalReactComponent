@@ -1,4 +1,4 @@
-## Webpack react minimal boilerplate
+## Used Webpack react minimal boilerplate for initial setup
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
    <img alt="dependencies" title="dependencies" src="https://img.shields.io/github/last-commit/hashemkhalifa/webpack-react-boilerplate.svg" >
@@ -42,7 +42,7 @@ webpack
 
 1- Clone the boilerplate repo
 
-`git clone git@github.com:HashemKhalifa/webpack-react-boilerplate.git`
+`git clone https://github.com/Tejaswi8/HiltonFunctionalReactComponent.git`
 
 2- `yarn` or `npm install` to install npm packages
 
