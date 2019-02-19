@@ -1,0 +1,41 @@
+.room-container {
+    width: 148px;
+    border: solid 1px gray;
+    background-color: lightgray;
+    height: 122px;
+    border-radius: 5px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    margin-left: 12px;
+    float: left;
+}
+.title {
+    position: relative;
+    top: 14px;
+    left: 14px;
+}
+.title-label {
+   font-weight: 600px;
+}
+.child-box {
+    width: 125px;
+    position: relative;
+    border: solid 1px white;
+    margin-top: 17px;
+    height: 74px;
+    margin-left: 12px;
+    background-color: white;
+    border-radius: 5px;
+}
+.lbl {
+    font-size: smaller;
+    padding-left: 13px;
+}
+.age-lbls {
+    position: relative;
+    top: -11px;
+}
+.dropdown {
+    margin-left: 15px;
+}

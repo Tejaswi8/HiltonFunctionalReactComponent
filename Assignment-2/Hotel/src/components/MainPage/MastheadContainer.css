@@ -1,0 +1,19 @@
+body {
+  background-color: #fff;
+  font-family: Lato, sans-serif;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.4em;
+  font-weight: 400;
+}
+.submitBtn {
+    position: absolute;
+    left: 116px;
+    top: 186px;
+}
+.responsiveView {
+  position: absolute;
+  top: 237px;
+  width: 98%;
+}
+
